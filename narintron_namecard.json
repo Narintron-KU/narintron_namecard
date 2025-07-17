@@ -4,17 +4,20 @@
   "title": "Bachelor of Science Program in Digital Science and Technology",
   "phone": "+66 123 456 789",
   "email": "narintron.k@ku.th"
+  "image":
 },
 {
   "name": "Surasit Ainwiset",
   "title": "Computer Science Professor",
   "phone": "+66 987 654 999",
   "email": "Surasit.a@ku.th"
+  "image":
 },
 {
   "name": "Saksit Kumkeaw",
   "title": "Computer Science Professor",
   "phone": "66 987 654 321",
   "email": "Saksit.k@ku.th"
+  "image":
 }
 ]
